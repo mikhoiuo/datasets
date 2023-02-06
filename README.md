@@ -5,9 +5,8 @@ list of a lot of datasets. i guess
 [Open Images V7](https://storage.googleapis.com/openimages/web/index.html)
 
 # scientific
-[Nasa Open APIs](https://api.nasa.gov/)
-
-[Nasa Data Portal](https://data.nasa.gov/browse?q=machine-learning)
+- [Nasa Open APIs](https://api.nasa.gov/)
+- [Nasa Data Portal](https://data.nasa.gov/browse?q=machine-learning)
 
 # english
 
