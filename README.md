@@ -1,5 +1,5 @@
 # datasets
-list of a lot of datasets. i guess
+datasets im using 
 
 # image sets
 - [Open Images V7](https://storage.googleapis.com/openimages/web/index.html)
